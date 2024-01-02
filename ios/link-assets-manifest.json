@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "@core/assets/fonts/Bliss-Bold.otf",
+      "sha1": "a2ddfac461f2e2b5235feee494270e5b47f1cb27"
+    },
+    {
+      "path": "@core/assets/fonts/Bliss-Heavy.otf",
+      "sha1": "7daf95495e6ee71b4ced00ac050d0fb121ae4db9"
+    },
+    {
+      "path": "@core/assets/fonts/Bliss-Light.otf",
+      "sha1": "64a770abdc03d9ac90d23afbf099201ab564cd9d"
+    },
+    {
+      "path": "@core/assets/fonts/Bliss-Medium.otf",
+      "sha1": "95ffa6a77452f6b05bf9c4a356ae9754de5a8cb8"
+    },
+    {
+      "path": "@core/assets/fonts/Bliss-Regular.otf",
+      "sha1": "7f288cc3a305436aa427db23743459ed84b1bd0d"
+    }
+  ]
+}
